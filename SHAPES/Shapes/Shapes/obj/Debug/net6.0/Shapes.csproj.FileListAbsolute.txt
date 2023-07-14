@@ -1,0 +1,15 @@
+D:\c# ITEA\SHAPES\Shapes\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\c# ITEA\SHAPES\Shapes\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\c# ITEA\SHAPES\Shapes\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\c# ITEA\SHAPES\Shapes\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\c# ITEA\SHAPES\Shapes\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\c# ITEA\SHAPES\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+D:\c# ITEA\SHAPES\Shapes\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# ITEA\SHAPES\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\c# ITEA\SHAPES\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\c# ITEA\SHAPES\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\c# ITEA\SHAPES\Shapes\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\c# ITEA\SHAPES\Shapes\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\c# ITEA\SHAPES\Shapes\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\c# ITEA\SHAPES\Shapes\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\c# ITEA\SHAPES\Shapes\Shapes\obj\Debug\net6.0\ref\Shapes.dll

@@ -1,0 +1,16 @@
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\bin\Debug\conditionsPractice.exe.config
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\bin\Debug\conditionsPractice.exe
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\bin\Debug\conditionsPractice.pdb
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.csproj.AssemblyReference.cache
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.exe
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.pdb
+D:\c# ITEA\conditionsPractice\bin\Debug\conditionsPractice.exe.config
+D:\c# ITEA\conditionsPractice\bin\Debug\conditionsPractice.exe
+D:\c# ITEA\conditionsPractice\bin\Debug\conditionsPractice.pdb
+D:\c# ITEA\conditionsPractice\obj\Debug\conditionsPractice.csproj.AssemblyReference.cache
+D:\c# ITEA\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
+D:\c# ITEA\conditionsPractice\obj\Debug\conditionsPractice.exe
+D:\c# ITEA\conditionsPractice\obj\Debug\conditionsPractice.pdb
+D:\c# ITEA\conditionsPractice\obj\Debug\conditionsPractice.csproj.SuggestedBindingRedirects.cache
